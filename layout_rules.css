@@ -51,6 +51,12 @@ body {
 
 }
 
+.abstract_paragraph {
+  text-align: justify;
+/*  font-size: 1.25em;*/
+  line-height: 1.35em;
+}
+
 .page {
   display: block;
   margin-top: 5em;
